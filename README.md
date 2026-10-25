@@ -47,6 +47,7 @@ read
 
 delete
 
+
 Process Simulation:
 
 run
@@ -55,6 +56,7 @@ process
 
 kill
 
+
 Memory Simulation:
 
 memory
@@ -62,6 +64,7 @@ memory
 allocate
 
 free
+
 
 User login:
 
@@ -80,6 +83,7 @@ date
 
 time
 
+
 Error Handling:
 
 Invalid command detection
@@ -89,6 +93,7 @@ Missing file detection
 Invalid process detection
 
 Memory allocation validation
+
 
 Requirements:
 
@@ -106,6 +111,7 @@ Navigate to the project folder
 
 Run.
 
+
 Available Commands:
 
 - help : Display all available commands
@@ -122,6 +128,7 @@ Available Commands:
 
 - exit : Exit MiniOS
 
+
 File Management Commands:
 
 - dir : List files and directories
@@ -134,6 +141,7 @@ File Management Commands:
 
 - delete <file_name> : Delete a file
 
+
 Process Management Commands:
 
 - process : Display all running processes
@@ -141,6 +149,7 @@ Process Management Commands:
 - run <process_name> : Start a simulated process
 
 - kill <pid> : Terminate a process using its PID
+
 
 
 Memory Management Commands:
