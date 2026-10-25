@@ -35,7 +35,7 @@ Help command
 Exit command
 
 
-File Management
+File Management:
 
 dir
 
@@ -47,7 +47,7 @@ read
 
 delete
 
-Process Simulation
+Process Simulation:
 
 run
 
@@ -80,7 +80,7 @@ date
 
 time
 
-Error Handling
+Error Handling:
 
 Invalid command detection
 
@@ -90,7 +90,7 @@ Invalid process detection
 
 Memory allocation validation
 
-Requirements
+Requirements:
 
 Python 3.x
 
@@ -106,7 +106,7 @@ Navigate to the project folder
 
 Run.
 
-Available Commands
+Available Commands:
 
 - help : Display all available commands
 
@@ -122,7 +122,7 @@ Available Commands
 
 - exit : Exit MiniOS
 
-File Management Commands
+File Management Commands:
 
 - dir : List files and directories
 
@@ -134,7 +134,7 @@ File Management Commands
 
 - delete <file_name> : Delete a file
 
-Process Management Commands
+Process Management Commands:
 
 - process : Display all running processes
 
@@ -143,7 +143,7 @@ Process Management Commands
 - kill <pid> : Terminate a process using its PID
 
 
-Memory Management Commands
+Memory Management Commands:
 
 - memory : Display memory status
 
