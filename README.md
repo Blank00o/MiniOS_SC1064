@@ -17,10 +17,12 @@ Renzo Tonog (Process & Memory Management Developer)
 Jay Seron (User Management & System Information Developer)
 
 Project Description
+
 MiniOS ITBOYS is a command-line operating system simulator developed in Python. It simulates basic operating system functions such as file management, process management, memory management, user authentication, and system information through a command-line interface running in Windows Command Prompt (CMD).
 This project was created as part of the Operating Systems Final Project to demonstrate understanding of fundamental operating system concepts.
 
 Features:
+
 Command Line Interface
 Custom MiniOS command prompt
 Command processing
@@ -38,21 +40,25 @@ process
 kill
 
 Memory Simulation:
+
 memory
 allocate
 free
 
 User login:
+
 Login System
 whoami command
 Multiple Users
 
 System Information
+
 systeminfo
 date
 time
 
 Error Handling
+
 Invalid command detection
 Missing file detection
 Invalid process detection
@@ -63,6 +69,7 @@ Python 3.x
 Windows Command Prompt (CMD)
 
 How to Run
+
 Download or clone the repository.
 Open Command Prompt.
 Navigate to the project folder
