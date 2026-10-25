@@ -7,9 +7,13 @@ Operating Systems Final Project
 Group Members:
 
 Lyle Austin Dimaculangan (Project Leader)
+
 Johnmyr Fuertes (CLI Developer)
+
 John Lloyd Mamon  (File Management Developer)
+
 Renzo Tonog (Process & Memory Management Developer)
+
 Jay Seron (User Management & System Information Developer)
 
 Project Description
